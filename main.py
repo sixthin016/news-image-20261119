@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""news-image-20261119 v2 entrypoint (Python 3.13, standard library only).
+"""news-image-20261119 v3 entrypoint (Python 3.13, standard library only).
 
 The graded program: emit the front page built by render_front.py as
 /output/entry.png. The image is committed in the repository, so the
