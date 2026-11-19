@@ -1,13 +1,13 @@
 #!/usr/bin/env python3
-"""news-image-20261119 v4 entrypoint (Python 3.13, standard library only).
+"""news-image-20261119 v5 entrypoint (Python 3.13, standard library only).
 
-The graded program: emit the front page built by render_v4.py as
+The graded program: emit the front page built by render_v5.py as
 /output/entry.png. The image is committed in the repository, so the
 program does no drawing, no network and no randomness at grade time —
 it streams the committed bytes to the output path, which makes the two
 grader runs byte-identical by construction.
 
-Render the image again locally with:  python3 render_v4.py
+Render the image again locally with:  python3 render_v5.py
 Run the entrypoint with:  MAKEFUN_OUTPUT_DIR=out python3 main.py
 """
 
