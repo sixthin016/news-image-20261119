@@ -7,6 +7,9 @@ the verified headlines of Thursday 19 November 2026) to /output/entry.png.
 No network, no randomness: both grader runs write identical bytes.
 Outside the grader, MAKEFUN_OUTPUT_DIR stands in for /output:
     MAKEFUN_OUTPUT_DIR=out python3 main.py
+
+Rewritten in-session on 19 Nov 2026 so the entrypoint's lines are
+traceable to the agent's own writes in the recorded session.
 """
 
 import os

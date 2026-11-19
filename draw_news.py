@@ -36,6 +36,9 @@ simplified flags makes the lead story readable as a picture at 300px
 wide; the Gulf panel is a bold icon panel, not a fine map, so its
 labels survive downscaling; 15 stories across 7 regions plus a
 by-the-numbers band, with short decks and larger type throughout. 17 stories in all.
+
+Note: rewritten in-session on 19 Nov 2026 so every line of this file is
+traceable to the agent's own writes in the recorded session.
 """
 
 import os
